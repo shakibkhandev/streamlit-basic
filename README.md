@@ -1,6 +1,6 @@
 # Streamlit Basic
 
-This is a basic project of streamlit
+Streamlit Basic is a foundational project demonstrating the core capabilities of Streamlit for building interactive and data-driven web applications with Python.
 
 ## 📚 Resources
 
